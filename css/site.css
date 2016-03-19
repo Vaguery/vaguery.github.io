@@ -1,8 +1,8 @@
-html { font-size: 22.5px; }
+html { font-size: 18px; }
 
 body {
   min-height: 10rem;
-  padding-top: 100px;
+  padding-top: 50px;
   font-family: "livory",serif;
   color: #230305;
   width:100%;
@@ -85,12 +85,11 @@ h3 {
   font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
   padding-right: 4em;
   text-align: left;
-  margin-top: 1rem;
   line-height: 2rem;
 }
 
 
-h2:before,h3:before {
+h3:before {
   content: "§ ";
 }
 
@@ -99,20 +98,28 @@ div.container {
   max-width: 35rem;
 }
 
-article {
-  margin-top: 0;
-  margin-bottom: 0;
-  text-indent: 1.2rem;
-  line-height: 1.5rem;
+
+.tagline {
+  font-family: "livory",serif;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  font-style: italic;
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
+  text-align: left;
+}
+
+.contact-info {
   font-size: 1rem;
-  max-width: 30rem;
+  line-height: 1.5rem;
+  background-color: rgba(0, 0, 0, 0.05);
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  color: #230305;
 }
 
 
 p { 
   margin-top: 0;
   margin-bottom: 0;
-  text-indent: 1.2rem;
   line-height: 1.5rem;
   font-size: 1rem;
   max-width: 30rem;
@@ -203,17 +210,6 @@ a:active {
   line-height: 1.5rem;
 }
 
-code {
-  background-color: rgba(0, 0, 0, 0.05);
-  font-family: "fira-mono";
-  color: #230305;
-}
-
-a > code {
-  background-color: rgba(213, 64, 26, 0.1);
-  font-family: "fira-mono";
-  text-decoration: underline;
-}
 
 .highlighter-coderay {
     padding:0;
@@ -236,7 +232,6 @@ a > code {
 }
 
 ol,ul {
-  padding-top: 1rem;
   font-size: 1rem;
   max-width: 90%;
 }
