@@ -53,8 +53,8 @@ Ann Arbor, MI
 
 - Ph.D. candidate, Industrial & Operations Engineering, University of Michigan, 2004--2006
 - M.A., Biology, University of Pennsylvania, 1997
-- Santa Fe Institute Summer School on Complex Systems, June 1--30 1991
-- BRL DNA Sequence Analysis Workshop, Miami University, July 1988
+- Santa Fe Institute Summer School on Complex Systems, 1991
+- BRL DNA Sequence Analysis Workshop, Miami University, 1988
 - Department of Botany, Miami University (Oxford, Ohio), 1987--89
 - B.S., Biology, Case Western Reserve University (with Honors), 1986
 
