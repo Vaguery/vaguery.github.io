@@ -1,0 +1,288 @@
+html { font-size: 18px; }
+
+body {
+  min-height: 10rem;
+  padding-top: 50px;
+  font-family: "livory",serif;
+  color: #230305;
+  width:100%;
+  padding-bottom: 5rem;
+}r
+
+.navbar {
+  color: #6FF;
+  box-shadow: 0px 10px 5px rgba(66 , 33, 33, 0.1);
+}
+
+ul.nav li {
+  font-size: 1rem;
+  padding-bottom: 0;
+  padding-left: 0;
+  text-indent: 0;
+}
+
+ul.nav li.active {
+  color: #bbb;
+}
+
+ul.nav li.dropdown.open ul * {
+  font-size: 0.8rem;
+  line-height: 1rem;
+}
+
+h1 {
+  padding-top: 2rem;
+}
+
+img {
+  max-width: 30rem;
+}
+
+hr {
+    padding: 0;
+    border: none;
+    /*border-top: medium double #230305;*/
+    color: #230305;
+    text-align: center;
+    max-width: 10rem;
+    text-indent: 0;
+}
+
+hr:after {
+    content: "↘ ↗ ︎↖ ↙";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1rem;
+    padding: 0 0.25rem;
+    /*background: white;*/
+}
+
+h1,h2 {
+  font-family: "livory",serif;
+  font-size: 2rem;
+  font-style: italic;
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
+  padding-right: 4em;
+  text-align: left;
+}
+
+h2 {
+  font-size: 2rem;
+  font-style: italic;
+  text-indent: -2rem;
+  padding-left: 2rem;
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
+  padding-right: 0;
+  text-align: left;
+}
+
+
+h3 {
+  font-family: "livory",serif;
+  font-weight: bold;
+  font-size: 1rem;
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
+  padding-right: 4em;
+  text-align: left;
+  line-height: 2rem;
+}
+
+
+h3:before {
+  content: "§ ";
+}
+
+div.container {
+  padding:0;
+  max-width: 35rem;
+}
+
+
+.tagline {
+  font-family: "livory",serif;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  font-style: italic;
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
+  text-align: left;
+}
+
+.contact-info {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  background-color: rgba(0, 0, 0, 0.05);
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+  color: #230305;
+}
+
+
+p { 
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.5rem;
+  font-size: 1rem;
+  max-width: 30rem;
+  text-rendering: optimizeLegibility; /* optional: for older browsers */
+
+  font-variant-ligatures: common-ligatures; 
+  font-variant-numeric: oldstyle-nums;
+  font-variant-numeric: diagonal-fractions;
+
+
+  -moz-font-feature-settings: "kern=1","liga=1","onum=1","frac=1";/* pre-Firefox 14+ */
+  -ms-font-feature-settings:"liga" 1,"calt" 1,"onum" 1,"frac" 1;
+  -webkit-font-feature-settings: "kern" 1, "liga" 1, "onum" 1;
+  -o-font-feature-settings:"liga", "onum","frac";
+  -moz-font-feature-settings: "kern", "liga", "calt","onum","frac"; /* Firefox 14+ */
+  font-feature-settings: "kern" 1,"liga" 1,"calt" 1,"onum" 1,"frac" 1; /* standard */
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 21+*/
+
+  -ms-word-break: normal;
+  word-break: normal;
+
+  word-break: break-word;
+
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.fancy {
+  font-variant-ligatures: common-ligatures; 
+  font-variant-ligatures: discretionary-ligatures; 
+  font-variant-numeric: oldstyle-nums;
+  font-variant-numeric: diagonal-fractions;
+
+
+  -moz-font-feature-settings: "kern=1","liga=1","dlig=1","onum=1","frac=1";/* pre-Firefox 14+ */
+  -ms-font-feature-settings:"liga" 1, "dlig" 1, "calt" 1,"onum" 1,"frac" 1;
+  -webkit-font-feature-settings: "kern" 1, "liga" 1, "dlig" 1, "onum" 1;
+  -o-font-feature-settings:"liga", "dlig", "onum","frac";
+  -moz-font-feature-settings: "kern", "liga", "dlig", "calt","onum","frac"; /* Firefox 14+ */
+  font-feature-settings: "kern" 1,"liga" 1, "dlig" 1, "calt" 1,"onum" 1,"frac" 1; /* standard */
+  font-kerning: normal; /* Safari 7+, Firefox 24+, Chrome 33(?)+, Opera 2 */
+}
+
+p:first-of-type {
+  text-indent: 0;
+}
+
+p.date-box {
+  color: #888888;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+}
+
+a:link {
+  color: #D5401A;
+}
+
+a:visited {
+  color: #AA1D11;
+}
+
+a:hover {
+  color: #E17818;
+}
+
+a:active {
+  color: #E1AD7E;
+  background-color: #D5401A;
+}
+
+::selection {
+  background: palegoldenrod; /* Safari */
+  }
+
+::-moz-selection {
+  background: palegoldenrod; /* Firefox */
+}
+
+#article-list {
+  font-size: 1.8em;
+  padding-left: 0;
+}
+
+#article-list li {
+  display: inline; 
+  margin-right: 0;
+  line-height: 1.5rem;
+}
+
+
+.highlighter-coderay {
+    padding:0;
+    margin-top:1.5rem;
+    margin-bottom:1.5rem;
+    max-width: 30rem;
+    overflow-x: scroll;
+    border:none;
+    font-size: 1rem;
+    line-height: 1.25rem;
+}
+
+.CodeRay {
+  width:300%;
+}
+
+.code * {
+  font-family: "fira-mono";
+  line-height: 1rem;
+}
+
+ol,ul {
+  font-size: 1rem;
+  max-width: 90%;
+}
+
+ol li {
+  padding-top: 0.5rem;
+  line-height: 1.5em;
+  text-align: left;
+}
+
+ul li {
+  padding-top: 0.5rem;
+  line-height: 1.5em;
+  text-align: left;
+}
+
+blockquote * {
+  text-align: left;
+  color: #555555;
+  font-size: 0.9rem;
+}
+
+div.footnotes {
+  margin-top: 2rem;
+  border-top-style: inset;
+  border-top-width: 1px;
+}
+
+
+div.footnotes * {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+div.footnotes a.footnote {
+  font-size: 75%;
+}
+
+.editable-region {
+  font-family: "fira-mono";
+  font-size: 1rem;
+  white-space:pre;
+  max-width: 30rem;
+}
+
+.report-column {
+  text-align: center;
+}
+
+
+input[type=text] {
+  font-family: "fira-mono";
+  font-size: 0.6rem;
+}
