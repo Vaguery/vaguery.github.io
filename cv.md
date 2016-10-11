@@ -29,6 +29,7 @@ Ann Arbor, MI
 *Data Pageant produced machine learning systems focused on what today is called* really *Big Data: real-time technical equities traders and corporate intelligence systems.* \\
 Ann Arbor, MI
 - 1995--2007: Principal, Tozier Consulting \\
+_Introductory and advanced tutorials on agent-based modeling, agile methodologies applied to research projects, data mining and simulation, and evolutionary algorithms applications._
 Ann Arbor, MI
 
 ### In Print
