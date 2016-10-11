@@ -31,6 +31,11 @@ Ann Arbor, MI
 - 1995--2007: Principal, Tozier Consulting \\
 Ann Arbor, MI
 
+### In Print
+
+- Editor: _Genetic Programming Theory and Practice 2016_, Springer Verlag, in press.
+- Book chapter: "GP As If You Meant It: An Exercise for Mindful Practice", in _Genetic Programming, Theory and Practice 2015_, Springer Verlag, in press.
+
 ### Consulting Domains
 
 - Organizational design for informal and _ad hoc_ collaborative technical networks
@@ -55,16 +60,22 @@ Ann Arbor, MI
 
 ### Programming
 
-#### Test-driven design proficiency
+#### Fully proficient
 
 - Clojure and ClojureScript
 - Ruby, with a focus on non-platform programming
 - Apple Swift
-- Lua
 - Python
-- R
+- LaTeX
+- Mathematica
 
-#### Platforms
+#### Productive experience
+
+- Project Jupyter
+- R
+- Lua
+
+#### Communication platforms
 
 - `jekyll`
 - `sinatra.rb`
