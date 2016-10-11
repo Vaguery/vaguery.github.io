@@ -17,7 +17,7 @@ Ann Arbor, MI 48106-1261
 ### Works
 
 - 2011--present: Founder, Coscience \\
-_Coscience is a non-profit startup of skilled technicians who collaborate on a project-by-project basis on computational science and engineering efforts with individual academic colleagues in an agile setting. Projects focus on simulation, statistics, machine learning, data mining, artificial life, and data visualization. It is currently "under the radar"._ \\
+_Coscience is a non-profit "collaboration startup", working with (not for) individual academic colleagues on computational engineering and science projects in an agile setting. Projects will focus on simulation, statistics, machine learning, data mining, artificial life, and data visualization. It is currently "under the radar"._ \\
 Ann Arbor, MI
 - 2010--2015: Co-Owner, [Workantile](http://workantile.com) Coworking Community \\
 _Workantile is a self-sustaining membership community for freelancers, remote employees, and independents who would otherwise work on their own at home or in coffee shops. It provides a social foundation for the new "gig economy"._ \\
