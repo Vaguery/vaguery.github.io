@@ -34,7 +34,7 @@ Ann Arbor, MI
 
 ### In Print
 
-- Editor: _Genetic Programming Theory and Practice 2016_, Springer Verlag, in press.
+- Editor, with Rick Riolo, Brian Goldman and Bill Worzel, of _Genetic Programming Theory and Practice 2016_, Springer Verlag, in press.
 - Book chapter: "GP As If You Meant It: An Exercise for Mindful Practice", in _Genetic Programming, Theory and Practice 2015_, Springer Verlag, in press.
 
 ### Consulting Domains
