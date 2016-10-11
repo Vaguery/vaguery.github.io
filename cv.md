@@ -17,16 +17,16 @@ Ann Arbor, MI 48106-1261
 ### Works
 
 - 2011--present: Founder, Coscience \\
-Coscience is a non-profit collaborative network for the computational sciences and engineering, with a focus on agile projects in simulation, statistics, machine learning, data mining, artificial life, and data visualization. \\
+_Coscience is a new non-profit collaborative network for the computational sciences and engineering, with a focus on agile projects in simulation, statistics, machine learning, data mining, artificial life, and data visualization. It is currently "under the radar"._ \\
 Ann Arbor, MI
 - 2010--2015: Co-Owner, [Workantile](http://workantile.com) Coworking Community \\
-Workantile is a self-sustaining membership community for freelancers, remote employees, and independents who would otherwise work on their own at home or in coffee shops. \\
+_Workantile is a self-sustaining membership community for freelancers, remote employees, and independents who would otherwise work on their own at home or in coffee shops. It provides a social foundation for the new "gig economy"._ \\
 Ann Arbor, MI
 - 2008--2011: Co-Owner, Vague Innovation, LLC \\
-Vague Innovation provided business planning and strategic advice to businesses traditionally ignored by Business Development organizations: independents, creative freelancers, and members of the "gig economy". \\
+_Vague Innovation provided business planning and strategic advice to businesses traditionally ignored by Business Development organizations: independents, creative freelancers, and members of the "gig economy"._ \\
 Ann Arbor, MI
 - 2000--2002: Founder, Data Pageant, LLC \\
-Data Pageant produced machine learning systems focused on what today is called _really_ Big Data: real-time technical equities traders and corporate intelligence systems. \\
+_Data Pageant produced machine learning systems focused on what today is called _really_ Big Data: real-time technical equities traders and corporate intelligence systems._ \\
 Ann Arbor, MI
 - 1995--2007: Principal, Tozier Consulting \\
 Ann Arbor, MI
