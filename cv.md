@@ -26,7 +26,7 @@ Ann Arbor, MI
 _Vague Innovation provided business planning and strategic advice to businesses traditionally ignored by Business Development organizations: independents, creative freelancers, and members of the "gig economy"._ \\
 Ann Arbor, MI
 - 2000--2002: Founder, Data Pageant, LLC \\
-_Data Pageant produced machine learning systems focused on what today is called _really_ Big Data: real-time technical equities traders and corporate intelligence systems._ \\
+*Data Pageant produced machine learning systems focused on what today is called* really *Big Data: real-time technical equities traders and corporate intelligence systems.* \\
 Ann Arbor, MI
 - 1995--2007: Principal, Tozier Consulting \\
 Ann Arbor, MI
