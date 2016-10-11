@@ -7,8 +7,8 @@ layout: cv
 Consulting Scientist & Performing Engineer
 {: .tagline}
 
-
-contact via @Vaguery at [GitHib](https://github.com/vaguery) or [Twitter](https://twitter.com/vaguery), or: \\
+(phone number available only by request) \\
+Initial contact via @Vaguery at [GitHib](https://github.com/vaguery) or [Twitter](https://twitter.com/vaguery), or: \\
 \\
 PO Box 1261 \\
 Ann Arbor, MI 48106-1261
@@ -17,12 +17,16 @@ Ann Arbor, MI 48106-1261
 ### Works
 
 - 2011--present: Founder, Coscience \\
+Coscience is a non-profit collaborative network for the computational sciences and engineering, with a focus on agile projects in simulation, statistics, machine learning, data mining, artificial life, and data visualization. \\
 Ann Arbor, MI
 - 2010--2015: Co-Owner, [Workantile](http://workantile.com) Coworking Community \\
+Workantile is a self-sustaining membership community for freelancers, remote employees, and independents who would otherwise work on their own at home or in coffee shops. \\
 Ann Arbor, MI
 - 2008--2011: Co-Owner, Vague Innovation, LLC \\
+Vague Innovation provided business planning and strategic advice to businesses traditionally ignored by Business Development organizations: independents, creative freelancers, and members of the "gig economy". \\
 Ann Arbor, MI
 - 2000--2002: Founder, Data Pageant, LLC \\
+Data Pageant produced machine learning systems focused on what today is called _really_ Big Data: real-time technical equities traders and corporate intelligence systems. \\
 Ann Arbor, MI
 - 1995--2007: Principal, Tozier Consulting \\
 Ann Arbor, MI
@@ -48,6 +52,26 @@ Ann Arbor, MI
 - Meta-optimization & hyperheuristics: automated identification of search methods suited to classes of optimization problems
 - Artificial life and agent-based models in engineering and basic research applications
 - Dynamics of cultural transmission for marketing, organizational behavior and knowledge management
+
+### Programming
+
+#### Test-driven design proficiency
+
+- Clojure and ClojureScript
+- Ruby, with a focus on non-platform programming
+- Apple Swift
+- Lua
+- Python
+- R
+
+#### Platforms
+
+- `jekyll`
+- `sinatra.rb`
+- `rails`
+- `luminus` (Clojure)
+- `reagent` (ClojureScript interface for React.js)
+- `highcharts.js`
 
 ### Education
 
