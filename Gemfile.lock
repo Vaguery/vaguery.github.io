@@ -255,8 +255,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (>= 1.12.2)
   github-pages
   kramdown (>= 2.3.0)
+  nokogiri (>= 1.10.9)
 
 BUNDLED WITH
    2.1.4
