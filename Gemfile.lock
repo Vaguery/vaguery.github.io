@@ -276,8 +276,9 @@ DEPENDENCIES
   addressable (>= 2.8.0)
   ffi (>= 1.12.2)
   github-pages
-  kramdown (>= 2.3.0)
-  nokogiri (>= 1.10.9)
+  kramdown (>= 2.3.1)
+  nokogiri (>= 1.11.4)
+  rexml (>= 3.2.5)
 
 BUNDLED WITH
    2.2.17
